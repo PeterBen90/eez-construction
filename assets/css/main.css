@@ -875,6 +875,7 @@ button,
       .logo {
         width: 100% !important;
         height: auto;
+        margin-bottom: 1em !important;
       }
      }
   @media screen and (max-width: 360px) {
@@ -906,7 +907,7 @@ button,
 .logo {
   height: 200px;
   width: auto;
-  margin-bottom: 5em;
+  margin-bottom: 1em;
 }
 
 form {
